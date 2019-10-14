@@ -1,0 +1,32 @@
+table,
+td {
+    border: 1px solid #333;
+    padding: 10px 50px 20px;
+}
+
+thead,
+th {
+    background-color: lightgrey;
+    color: black;
+}
+
+
+}
+tr{
+	background-color: grey;
+	color: white;
+}
+.hai {
+    background-color: orange;
+    color: green;
+}
+.hoi{
+	background-color: purple;
+}
+.rij3{
+	background-color: blue;
+}
+.rij4{
+	background-color: yellow;
+}
+
